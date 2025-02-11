@@ -1,4 +1,4 @@
-## Description
+## Responsive Dashboard
 A responsive admin dashboard for Hetvi Fashion Hub using HTML, Tailwind CSS, and JavaScript.
 
 ## Features
